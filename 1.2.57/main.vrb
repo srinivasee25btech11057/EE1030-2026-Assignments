@@ -1,0 +1,9 @@
+\begin{lstlisting}
+# Find values of x when y = 0
+roots = np.roots(coeffs)
+
+print("\nValues of x when y = 0:")
+for r in roots:
+    print(r)
+
+\end{lstlisting}
